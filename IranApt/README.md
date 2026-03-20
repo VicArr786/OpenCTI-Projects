@@ -44,7 +44,7 @@ Clusters highlight groups with stronger overlaps in behavior and tradecraft.
 * Graph generated using OpenCTI
 * Focus on **behavioral similarity**, not attribution
 
-Iranian APT groups often rely heavily on phishing, credential access, and command execution techniques as part of their operations. ([Medium][2])
+Iranian APT groups often rely heavily on phishing, credential access, and command execution techniques as part of their operations.
 
 ---
 
